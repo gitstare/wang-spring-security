@@ -1,0 +1,16 @@
+git 基本设置信息
+设置用户名
+git config --global uses.name 'gitstare'
+设置用户邮箱
+git config --global uses.emall '775723480@qq.com'
+
+
+git add  文件名
+
+git commit -m  ‘’描述提交的内容
+
+git  push  本地仓库 同步到GitHub上
+
+
+
+git  status  查看提交状态
